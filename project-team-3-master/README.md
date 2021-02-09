@@ -20,13 +20,13 @@ I projektet användes 3 pycomenheter.
 
 Två olika sensorer testades (PIR sensor och Ultrasonic sensor). Varje sensor kopplades till varsin pycomenhet.  
 PIR sensor:  
-![PIR sensor](/img/pir.jpg)
+![PIR sensor](/project-team-3-master/img/pir.jpg)
 
 Ultrasonic sensor:  
-![Ultrasonic sensor](/img/VideoCapture_20210114-201823_W900px.jpg)
+![Ultrasonic sensor](/project-team-3-master/img/VideoCapture_20210114-201823_W900px.jpg)
 
 En uppsättning hade en LED-lampa kopplad till en pycomenhet:  
-![LED](/img/878B7261-3C98-4478-85B5-CCB6F25E4DDB_1_105_c.jpeg)
+![LED](/project-team-3-master/img/878B7261-3C98-4478-85B5-CCB6F25E4DDB_1_105_c.jpeg)
 
 Data skickades via MQTT. Mqtt-servern som användes var Linnéuniversitetets mqtt-server.
 PIR sensorn registrerar rörelse i 120 graders vinkel upp till 7 meter.
