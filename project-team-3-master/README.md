@@ -8,11 +8,11 @@ Bakgrunden till idén är att spara energi och öka tryggheten i Kalmar genom at
 Genom att få lampor att tända och släcka vid behov, sparar kommunen inte bara energi, men även lampornas livslängd ökar. Dessutom så ger det lite mer trygghet för samhället, som t.ex. bilister som tydligare kan se ungefär vart människor rör sig i närheten där de kör, då lamporna lyser i samband med rörelse. 
 
 ## Metod
-- [timelog.md](/docs/timelog.md)
-- [requirements.md](/docs/requirements.md)
-- [hardware.md](/docs/hardware.md)
-- [setup.md](/docs/setup.md)
-- [test.md](/docs/test.md)
+- [timelog.md](/project-team-3-master/docs/timelog.md)
+- [requirements.md](/project-team-3-master/docs/requirements.md)
+- [hardware.md](/project-team-3-master/docs/hardware.md)
+- [setup.md](/project-team-3-master/docs/setup.md)
+- [test.md](/project-team-3-master/docs/test.md)
 
 
 ## Resultat
