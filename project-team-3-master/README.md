@@ -1,4 +1,7 @@
 # project-team-3: Öka/minska ljusstyrka
+Projekt i kursen 1DT308 (och 1DT902) Introducerande projekt på Linnéuniversitetet i Kalmar, Höstterminen 2020.  
+Projektgrupp 3: Bianca Björkman, Emma Lövgren, Mattias Stålgren.  
+Kursen är en del av programmet Mjukvaruteknik, högskoleingenjör.
 
 ## Bakgrund och idé 
 Öka ljusstyrka på belysning vid aktivitet exempelvis gång- och cykelvägar. 
